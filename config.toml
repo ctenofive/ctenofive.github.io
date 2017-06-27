@@ -1,4 +1,4 @@
-baseurl = "https://ctenofive.github.io"
+baseurl = "https://ctenofive.github.io/"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = 10
