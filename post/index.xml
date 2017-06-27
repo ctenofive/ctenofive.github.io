@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thoughts by __</title>
-    <link>https://ctenofive.github.io/</link>
-    <description>Recent content on Thoughts by __</description>
+    <title>Posts on Thoughts by __</title>
+    <link>https://ctenofive.github.io/post/</link>
+    <description>Recent content in Posts on Thoughts by __</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](http://gohugo.io).</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 12:37:39 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://ctenofive.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ctenofive.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test Content</title>
-      <link>https://ctenofive.github.io/blog/test-content/</link>
-      <pubDate>Tue, 27 Jun 2017 12:37:39 -0400</pubDate>
-      
-      <guid>https://ctenofive.github.io/blog/test-content/</guid>
-      <description>This is a test!</description>
-    </item>
     
     <item>
       <title>Migrate from Jekyll</title>
