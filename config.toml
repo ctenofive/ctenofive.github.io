@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 baseurl = "https://ctenofive.github.io"
 googleAnalytics = ""
->>>>>>> 08bd46fc4feffb644d6b59c1a19715b5c532ed21
 languageCode = "en-us"
 paginate = 10
 theme = "hugo-minimalist-theme"
