@@ -4,3 +4,5 @@ title = "The Purpose"
 
 +++
 # The purpose of this blog
+
+I am trying to write stuff....
