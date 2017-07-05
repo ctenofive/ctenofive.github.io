@@ -1,7 +1,0 @@
----
-title: Test Content
-date: '2017-06-27T12:37:39-04:00'
-draft: true
-
----
-This is a test!
